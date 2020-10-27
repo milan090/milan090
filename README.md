@@ -8,7 +8,7 @@ I'm a JavaScript Web Developer who loves backend. I get excited seeing anything 
 - Makes discord bots with nodejs
 - Loves contributing to Open Source
 - The Guy with Linux on his PC
-- Trying to build a Programming Language someday (Why? Cause it's sounds fun :P)
+- Trying to build a Programming Language someday (Why? Cause it sounds fun :P)
 
 ### Get In Touch On
 [<img src="https://i.pinimg.com/originals/0f/1e/cd/0f1ecd724117e27390873d3e42b24571.jpg" width="30px">](https://www.instagram.com/codingdeck/) 
