@@ -1,7 +1,7 @@
 #### Heyyy! It's Milan here (A.K.A [@Codingdeck](https://www.instagram.com/codingdeck/)) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### About Me
-I'm a JavaScript Web Developer who loves backend. I get excited seeing anything related to Programming (Error at line 127 excluded). 
+I'm a JavaScript Web Developer who loves backend. I get excited seeing anything related to Programming.
 
 #### What I do
 - Make awesome websites with React and Expressjs
