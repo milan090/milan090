@@ -5,7 +5,6 @@ I'm a full stack web developer and  a highschool student, but who are you 🔫 ?
 
 he/him
 weeb - manga/manhwa fan
-loves trollin
 
 #### What I do
 - Make awesome websites with Nextjs and Typescript
