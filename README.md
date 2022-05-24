@@ -8,7 +8,7 @@ weeb - manga/manhwa fan
 
 #### What I do
 - Make awesome websites with Nextjs and Typescript
-- Makes discord bots with nodejs
+- Web3 Stuff
 - Loves contributing to Open Source
 - The Guy with Linux on his PC
 
