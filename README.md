@@ -3,7 +3,7 @@
 Portfolio: [milan090.me](https://milan090.me)
 
 #### About Me
-I'm a full stack web developer and  a highschool student, but who are you 🔫 ?
+I'm a full stack web developer, but who are you 🔫 ?
 
 #### Technologies I use:
 
