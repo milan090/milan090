@@ -2,7 +2,4 @@
 
 Portfolio: [milan090.me](https://milan090.me)
 
-I mainly code in Rust, typescript for scalable Web3 systems
-Learning zig and gleam in my freetime
-
-AI torch enthusiast
+I mainly code in Rust, typescript
