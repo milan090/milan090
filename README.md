@@ -2,4 +2,4 @@
 
 Portfolio: [milan090.me](https://milan090.me)
 
-I mainly code in Rust, typescript
+I mainly code in Rust, typescript and python
